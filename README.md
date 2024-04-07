@@ -1,2 +1,1 @@
-# OpenAI
-OpenAI projects
+# End-To-End-Gemini-Project
